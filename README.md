@@ -1,13 +1,13 @@
-## Vagrant_FAQ
+# Vagrant_FAQ
 
 ---
 
-# Что нужно
+## Что нужно
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Vagrant](https://www.vagrantup.com/downloads)
 
-# Как установить
+## Как установить
 
 ***Если используется антивирус Kaspersky отключить его на время установки и при каждом обращение к vagrantcloud.com или добавить сайт vagrantcloud.com в доверенные в настройках антивируса***
 
